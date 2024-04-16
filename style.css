@@ -1,0 +1,22 @@
+body {
+  color: skyblue;
+  background-color: white;
+}
+#temperature1 {
+  color: black;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 16px;
+  background-color: lightblue;
+}
+#home {
+  color: black;
+}
+.topmenu {
+  color: skyblue;
+}
+#example {
+  position: absolute;
+  top: 70px;
+  right: 100px;
+  width: 80px;
+}
